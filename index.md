@@ -5,10 +5,11 @@
 
 [![View on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/CATIE-AQ/QAmembert)
 
-QAmemBERT is a simply the best performing QA model in French according to the benchmarks !
+QAmemBERT is a simply the best performing QA model in French according to the benchmarks ! \
 It is available in two sizes ([base](https://huggingface.co/CATIE-AQ/QAmembert) and
 [large](https://huggingface.co/CATIE-AQ/QAmembert-large))
-and is freely available on Hugging Face. I gathered the data and build the script for training it during the POC phase. It was developed in collaboration with [Loïck Bourdois](https://lbourdois.github.io/) and [Boris Albar](https://fr.linkedin.com/in/boris-albar).
+and is freely available on Hugging Face. \ 
+I gathered the data and build the script for training it during the POC phase. It was developed in collaboration with [Loïck Bourdois](https://lbourdois.github.io/) and [Boris Albar](https://fr.linkedin.com/in/boris-albar).
 
 ---
 
@@ -33,8 +34,8 @@ Code for modern method for Franch RAG with no tedious document parsing
 ---
 
 ## Classify anything
-
+WIP code is fully functionnal but has to be cleaned ;) 
 State of the art, all purpose, image classifier with multiple tricks from research papers.(CNNs, ViTs, soft labels, TTA, quantize, schedulers and so on ... all customizable) \
-WIP
+
 
 ---
