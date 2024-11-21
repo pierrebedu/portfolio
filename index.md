@@ -16,7 +16,7 @@ I gathered the data and build the script for training it during the POC phase. I
 ## Multimodal RAG pipeline
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/multimodal_RAG_with_VLMs) \
-This is my personnal take on multimodal RAG : modern method working on pdfs at the page level, no tedious document parsing : \
+This is my personnal take on multimodal RAG : modern method working on pdfs at the page level, no tedious document parsing ! \
 Script for fine tuning a Multimodal Langage Model (Idefics3) in French. \
 Script for fine tuning a multimodal embedding model of type ColPali.  (wip)
 
@@ -28,8 +28,8 @@ Script for fine tuning a multimodal embedding model of type ColPali.  (wip)
 ## Quantization pipeline
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/infere-anything-FAST) \
-Quantize any onnx model and run inference FAST ! fp16 or INT8 quantization \
-Code for modern method for Franch RAG with no tedious document parsing
+Quantize any onnx model and run inference FAST ! \ fp16 or INT8 quantization \
+
 
 ---
 
