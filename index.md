@@ -34,8 +34,9 @@ Code for modern method for Franch RAG with no tedious document parsing
 ---
 
 ## Classify anything
-WIP code is fully functionnal but has to be cleaned ;) 
-State of the art, all purpose, image classifier with multiple tricks from research papers.(CNNs, ViTs, soft labels, TTA, quantize, schedulers and so on ... all customizable) \
+WIP code is fully functionnal but has to be cleaned ;) \
+\
+State of the art, all purpose, image classifier with multiple tricks from research papers.(CNNs, ViTs, soft labels, TTA, quantize, schedulers and so on, all customizable) \
 
 
 ---
