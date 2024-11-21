@@ -6,7 +6,7 @@
 [![View on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/CATIE-AQ/QAmembert)
 
 QAmemBERT is a simply the best performing QA model in French according to the benchmarks ! \
-It is available in two sizes ([base](https://huggingface.co/CATIE-AQ/QAmembert) and [large](https://huggingface.co/CATIE-AQ/QAmembert-large))  and is freely available on Hugging Face. \
+It is available in two sizes ([base](https://huggingface.co/CATIE-AQ/QAmembert) and [large](https://huggingface.co/CATIE-AQ/QAmembert-large))  and is freely available on Hugging Face. 
 
 I gathered the data and build the scripts for training it during the POC phase. It was developed in collaboration with [Loïck Bourdois](https://lbourdois.github.io/) and [Boris Albar](https://fr.linkedin.com/in/boris-albar).
 
@@ -28,7 +28,7 @@ Script for fine tuning a multimodal embedding model of type ColPali.  (wip)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/infere-anything-FAST) \
 Quantize any onnx model and run inference FAST ! \ 
-fp16 or INT8 quantization \
+fp16 or INT8 quantization 
 
 
 ---
