@@ -49,7 +49,7 @@ WIP. Code is fully functionnal but has to be cleaned ;) \
 \
 State of the art, all purpose, image classifier with multiple tricks from research papers. \
 (CNNs, ViTs, soft labels, TTA, quantize, schedulers and so on, all customizable) \
-This is my go-to routine. 
+This script is my go-to routine. 
 
 
 ---
