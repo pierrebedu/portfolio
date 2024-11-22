@@ -33,6 +33,13 @@ fp16 or INT8 quantization
 
 ---
 
+## Efficient ML/DL presentation
+[Download the PDF presentation](/home/pbedu/portfolio/techintome_efficientML_public_version.pdf)
+Here is the link for an internal talk/workshop  I gave in 2023 to datascientists, data engineers and developers.
+Very little text, but a lot to tell and discuss! 
+
+---
+
 ## Classify anything
 WIP code is fully functionnal but has to be cleaned ;) \
 \
