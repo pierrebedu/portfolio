@@ -35,7 +35,7 @@ fp16 or INT8 quantization
 
 ## Efficient ML/DL presentation
 [View the PDF presentation](https://github.com/pierrebedu/portfolio/blob/main/techintome_efficientML_public_version.pdf) \
-Here is the link for an internal talk/workshop  I gave in 2023 to datascientists, data engineers and developers.
+Here is the link for an internal talk~workshop  I gave in 2023 to datascientists, data engineers and developers.
 Very little text, but a lot to tell and discuss! 
 
 ---
