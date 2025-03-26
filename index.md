@@ -23,7 +23,7 @@ Script for fine tuning a multimodal embedding model of type ColPali.
 
 
 ---
-### Cloud inference endpoint
+## Cloud inference endpoint
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/sido-ML_inference_docker_fastAPI) \
 Minimal code with FastAPI when I want to create an inference endpoint on cloud instances. (+docker or systemctl)
