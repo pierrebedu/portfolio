@@ -23,10 +23,10 @@ Script for fine tuning a multimodal embedding model of type ColPali.
 
 
 ---
-## Cloud inference endpoint
+## Realtime object detection with a camera
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/sido-ML_inference_docker_fastAPI) \
-Minimal code with FastAPI when I want to create an inference endpoint on cloud instances. (+docker or systemctl)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/catie-aq/sido-ML_inference_docker_fastAPI](https://github.com/pierrebedu/experiment_k/settings) \
+Code to run realtime object detection with a camera on cpu, FastAPI, unit test,exceptions , dataset creation, training... (docker or systemctl)
 
 
 ---
