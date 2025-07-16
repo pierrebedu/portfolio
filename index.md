@@ -25,7 +25,7 @@ Script for fine tuning a multimodal embedding model of type ColPali.
 ---
 ## Realtime object detection with a camera
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pierrebedu/experiment_k/settings) \
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pierrebedu/experiment_k) \
 Code to run realtime object detection with a camera on cpu, FastAPI, unit test,exceptions , dataset creation, training... (docker or systemctl)
 
 
