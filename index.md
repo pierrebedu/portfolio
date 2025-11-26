@@ -30,13 +30,21 @@ Code to run realtime object detection with a camera on cpu, FastAPI, unit test,e
 
 
 ---
+
+## Scoring app with explainability
+Copy of a scoring app i made for a client. \
+[app](https://scoring-app-km5j.onrender.com)
+Gradient boosting algorithms run in the backend to predict the probability of success/failure of a quotation.Shpa valuez for explainability of the prediction. \
+Takes about 5 min to launch(free hosting), but works great.
+
+--- 
+
 ## Quantization pipeline
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/infere-anything-FAST) \
 Quantize any onnx model and run inference FAST ! 
 
 fp16 or INT8 quantization 
-
 
 ---
 
@@ -49,12 +57,3 @@ Include a guessing game to keep everyone attentive.
 
 ---
 
-## Classify anything
-WIP. Code is fully functionnal but has to be cleaned ;) \
-\
-State of the art, all purpose, image classifier with multiple tricks from research papers. \
-(CNNs, ViTs, soft labels, TTA, quantize, schedulers and so on, all customizable) \
-This script is my go-to routine. 
-
-
----
