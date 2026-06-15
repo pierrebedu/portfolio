@@ -1,6 +1,19 @@
 # Portfolio
 ---
 
+## GAIA Agent
+
+Agent created to solve GAIA task. Retrieves information on the web/wikipedia if necessary.
+Executes tasks on all types of documents : pdfs, excel sheets, audio files, youtube videos, python executables, ...
+
+TO DO : add a tool for images handling via a VLM.
+
+## RAG/Agents architecture
+
+Modular and scalable architecture for GenAI "products". Each component can be reused (via Docker-compose), cloud agnostic.
+Features : 2 retries on tool calling, errors handling, Gated CI (conditionned to metrics' improvements on specific datasets).
+== work in progress ==
+
 ## QAmemBERT
 
 [![View on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/CATIE-AQ/QAmembert)
