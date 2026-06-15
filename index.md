@@ -2,11 +2,11 @@
 ---
 
 ## GAIA Agent
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](***) \
 Agent created to solve GAIA task. Retrieves information on the web/wikipedia if necessary.
 Executes tasks on all types of documents : pdfs, excel sheets, audio files, youtube videos, python executables, ...
 
-TO DO : add a tool for images handling via a VLM.
+Langfuse observability for performance evaluation and debugging.
 
 ## RAG/Agents architecture
 
