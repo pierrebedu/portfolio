@@ -2,16 +2,17 @@
 ---
 
 ## GAIA Agent
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](***) \
-Agent created to solve GAIA task. Retrieves information on the web/wikipedia if necessary.
-Executes tasks on all types of documents : pdfs, excel sheets, audio files, youtube videos, python executables, ...
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pierrebedu/GAIA_Agents) \
+AI agent designed to automate business workflows by handling multi-step tasks across diverse data sources.
+Extracts and processes information from documents, audio, video, and web data to enable use cases such as report generation, invoice data extraction, and competitive intelligence.
+Reduces manual workload and improves productivity across operations, finance, and support teams.
 
-Langfuse observability for performance evaluation and debugging.
+Langfuse observability for performance evaluation on GAIA dataset and debugging.
 
 ## RAG/Agents architecture
 
-Modular and scalable architecture for GenAI "products". Each component can be reused (via Docker-compose), cloud agnostic.
-Features : 2 retries on tool calling, errors handling, Gated CI (conditionned to metrics' improvements on specific datasets).
+Modular, scalable, and cloud-agnostic GenAI architecture with reusable components (Docker-based).
+Includes robust tool-calling (retries, error handling) and gated CI/CD driven by performance improvements on benchmark datasets.
 == work in progress ==
 
 ## QAmemBERT
